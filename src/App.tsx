@@ -49,7 +49,7 @@ function App() {
         <div className="container mx-auto flex items-center justify-between">
           <h1 className="text-2xl font-bold flex items-center">
             <CalendarIcon className="mr-2" />
-            TaskCalendar
+            ToDo Calender
           </h1>
           <button
             onClick={() => setIsAddingTask(true)}
