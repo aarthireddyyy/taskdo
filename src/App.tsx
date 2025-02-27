@@ -55,7 +55,7 @@ function App() {
             onClick={() => setIsAddingTask(true)}
             className="bg-white text-indigo-600 px-4 py-2 rounded-md font-medium hover:bg-indigo-50 transition-colors"
           >
-            Add Tasks
+            Add a new task
           </button>
         </div>
       </header>
